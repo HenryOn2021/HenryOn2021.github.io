@@ -451,7 +451,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-multi-class-bi-atrial-segmentation-from-lge-mri",
+          section: "News",},{id: "projects-aortic-valve-disease-detection-from-3-chamber-cine-mri",
+          title: 'Aortic Valve Disease Detection from 3-Chamber Cine MRI',
+          description: "Deep learning for cardiac cine MRI classification and translational evaluation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/aortic-valve-disease-cine-mri/";
+            },},{id: "projects-multi-class-bi-atrial-segmentation-from-lge-mri",
           title: 'Multi-class Bi-atrial Segmentation from LGE-MRI',
           description: "Challenge-oriented segmentation pipeline under data and runtime constraints.",
           section: "Projects",handler: () => {
