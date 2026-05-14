@@ -456,6 +456,11 @@ ninja.data = [{
           description: "Deep learning pipelines for LGE-MRI segmentation, classification, and explainability.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cardiac-mri-segmentation-mi-detection/";
+            },},{id: "projects-mitral-regurgitation-classification-using-interpretable-morphological-features",
+          title: 'Mitral Regurgitation Classification Using Interpretable Morphological Features',
+          description: "Classical machine learning using clinically meaningful cardiac morphology features.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mitral-regurgitation-morphology/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
