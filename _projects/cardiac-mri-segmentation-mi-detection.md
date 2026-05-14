@@ -32,6 +32,10 @@ I developed deep learning workflows covering preprocessing, model training, vali
 
 Python, PyTorch, MONAI, SimpleITK, NumPy, pandas, scikit-learn, Matplotlib, Grad-CAM, Dice, HD95, AUC, sensitivity, specificity, F1-score.
 
+## Code
+
+[GitHub repository](https://github.com/HenryOn2021/LGE_MRI_Myocardium_Segmentation_and_Myocardial_Infarction_Classification)
+
 ## Relevance
 
 This project demonstrates my ability to build reproducible AI pipelines for complex medical imaging data, from preprocessing and model development to validation, interpretation, and reporting.
