@@ -6,7 +6,7 @@ subtitle: Medical Imaging AI | Computer Vision | Applied Machine Learning | Data
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self_portrait.jpg
   image_circular: false
   more_info: >
     <p>London, United Kingdom</p>
