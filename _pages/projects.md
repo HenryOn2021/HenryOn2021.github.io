@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected applied AI, medical imaging, computer vision, and data science projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [medical imaging ai, interpretable ai, self-supervised learning, data science]
 horizontal: false
 ---
 
