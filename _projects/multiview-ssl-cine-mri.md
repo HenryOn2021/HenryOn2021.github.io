@@ -2,7 +2,6 @@
 layout: page
 title: Multi-view Self-supervised Learning for Cine Cardiac MRI
 description: Representation learning from complementary long-axis cardiac MRI views.
-img: assets/img/multiview_ssl_project.jpg
 importance: 3
 category: self-supervised learning
 related_publications: false
