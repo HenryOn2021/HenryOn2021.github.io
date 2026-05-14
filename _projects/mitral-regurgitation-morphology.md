@@ -2,7 +2,6 @@
 layout: page
 title: Mitral Regurgitation Classification Using Interpretable Morphological Features
 description: Classical machine learning using clinically meaningful cardiac morphology features.
-img: assets/img/mitral_regurgitation_project.jpg
 importance: 2
 category: interpretable ai
 related_publications: false
