@@ -461,6 +461,11 @@ ninja.data = [{
           description: "Classical machine learning using clinically meaningful cardiac morphology features.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mitral-regurgitation-morphology/";
+            },},{id: "projects-multi-view-self-supervised-learning-for-cine-cardiac-mri",
+          title: 'Multi-view Self-supervised Learning for Cine Cardiac MRI',
+          description: "Representation learning from complementary long-axis cardiac MRI views.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multiview-ssl-cine-mri/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
