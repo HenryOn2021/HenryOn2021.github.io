@@ -2,7 +2,6 @@
 layout: page
 title: Aortic Valve Disease Detection from 3-Chamber Cine MRI
 description: Deep learning for cardiac cine MRI classification and translational evaluation.
-img: assets/img/aortic_valve_project.jpg
 importance: 5
 category: medical imaging ai
 related_publications: false
