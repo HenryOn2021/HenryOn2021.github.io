@@ -213,16 +213,7 @@
     {
       "name": "Programming & Scientific Computing",
       "level": "",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "Keras",
-        "SimpleITK",
-        "Matplotlib",
-        "ROC/PR analysis",
-        "quantitative evaluation",
-        "diagnostic visualisation"
-      ]
+      "keywords": ["Python", "MATLAB", "Keras", "SimpleITK", "Matplotlib", "ROC/PR analysis", "quantitative evaluation", "diagnostic visualisation"]
     }
   ],
   "languages": [
@@ -267,13 +258,7 @@
         "Used feature engineering and classical machine learning for interpretable cardiac disease classification.",
         "Documented the workflow as a reproducible portfolio project."
       ],
-      "keywords": [
-        "mitral regurgitation",
-        "cine MRI",
-        "interpretable AI",
-        "feature engineering",
-        "scikit-learn"
-      ],
+      "keywords": ["mitral regurgitation", "cine MRI", "interpretable AI", "feature engineering", "scikit-learn"],
       "url": "https://github.com/HenryOn2021/Mitral_Regurgitation_Classification_with_Morphological_Features"
     },
     {
@@ -283,13 +268,7 @@
         "Enabled reproducible downstream machine learning analysis across 24 samples/images/experiments.",
         "Reduced manual analysis effort through structured preprocessing, feature selection, and automated reporting."
       ],
-      "keywords": [
-        "PyFeats",
-        "microscopy",
-        "feature extraction",
-        "scikit-learn",
-        "reproducible analysis"
-      ],
+      "keywords": ["PyFeats", "microscopy", "feature extraction", "scikit-learn", "reproducible analysis"],
       "url": ""
     }
   ],
