@@ -60,7 +60,7 @@
     {
       "name": "Viridien",
       "position": "Geophysicist",
-      "location": "Crawley, United Kingdom",
+      "location": "Crawley",
       "startDate": "2018-03",
       "endDate": "2019-03",
       "summary": "Technical role involving large-scale signal processing, numerical modelling, imaging datasets, and client-facing analytical outputs.",
@@ -74,7 +74,7 @@
   "education": [
     {
       "institution": "Imperial College London",
-      "location": "London, United Kingdom",
+      "location": "London",
       "area": "Clinical Medicine Research",
       "studyType": "PhD",
       "startDate": "2021",
@@ -90,7 +90,7 @@
     },
     {
       "institution": "Imperial College London",
-      "location": "London, United Kingdom",
+      "location": "London",
       "area": "Biomedical Engineering",
       "studyType": "MSc",
       "startDate": "2016",
@@ -104,7 +104,7 @@
     },
     {
       "institution": "University of Essex",
-      "location": "Colchester, United Kingdom",
+      "location": "Colchester",
       "area": "Electronic Engineering",
       "studyType": "BEng (Hons)",
       "startDate": "2012",
@@ -291,19 +291,6 @@
         "reproducible analysis"
       ],
       "url": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Applied AI and Healthcare",
-      "keywords": [
-        "computer vision",
-        "medical imaging AI",
-        "healthcare AI",
-        "scientific machine learning",
-        "translational machine learning",
-        "interpretable AI"
-      ]
     }
   ],
   "meta": {
