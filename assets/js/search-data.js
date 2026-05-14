@@ -451,7 +451,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-cardiac-mri-segmentation-and-myocardial-infarction-detection",
+          section: "News",},{id: "projects-multi-class-bi-atrial-segmentation-from-lge-mri",
+          title: 'Multi-class Bi-atrial Segmentation from LGE-MRI',
+          description: "Challenge-oriented segmentation pipeline under data and runtime constraints.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/biatrial-segmentation/";
+            },},{id: "projects-cardiac-mri-segmentation-and-myocardial-infarction-detection",
           title: 'Cardiac MRI Segmentation and Myocardial Infarction Detection',
           description: "Deep learning pipelines for LGE-MRI segmentation, classification, and explainability.",
           section: "Projects",handler: () => {
