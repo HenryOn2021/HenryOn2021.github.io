@@ -2,7 +2,6 @@
 layout: page
 title: Cardiac MRI Segmentation and Myocardial Infarction Detection
 description: Deep learning pipelines for LGE-MRI segmentation, classification, and explainability.
-img: assets/img/cardiac_mri_project.jpg
 importance: 1
 category: medical imaging ai
 related_publications: false
