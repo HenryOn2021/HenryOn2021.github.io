@@ -2,7 +2,6 @@
 layout: page
 title: Multi-class Bi-atrial Segmentation from LGE-MRI
 description: Challenge-oriented segmentation pipeline under data and runtime constraints.
-img: assets/img/biatrial_segmentation_project.jpg
 importance: 4
 category: medical imaging ai
 related_publications: false
