@@ -451,7 +451,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "projects-cardiac-mri-segmentation-and-myocardial-infarction-detection",
+          title: 'Cardiac MRI Segmentation and Myocardial Infarction Detection',
+          description: "Deep learning pipelines for LGE-MRI segmentation, classification, and explainability.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cardiac-mri-segmentation-mi-detection/";
+            },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
