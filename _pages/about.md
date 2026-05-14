@@ -26,11 +26,15 @@ latest_posts:
   limit: 3
 ---
 
-I am an applied AI researcher and data scientist specialising in computer vision, medical imaging, and machine learning for high-dimensional biomedical data. My PhD research at Imperial College London focused on developing reproducible and interpretable deep learning pipelines for cardiac MRI segmentation and disease classification.
-
-My work spans data curation, preprocessing, model training, validation, inference, explainability, and quantitative evaluation. I have experience building models with Python, PyTorch, MONAI, PyTorch Lightning, TorchIO, SimpleITK, scikit-learn, and scientific Python, with a particular focus on clinically relevant AI systems, robust validation, and interpretable outputs.
+I am an applied AI researcher and data scientist specialising in computer vision, medical imaging, and machine learning for high-dimensional biomedical data. My PhD research at Imperial College London focused on developing reproducible deep learning pipelines for cardiac MRI segmentation and disease classification.
 
 I am interested in industry and research roles across computer vision, applied AI, healthcare AI, data science, scientific machine learning, and translational biomedical research. I am particularly interested in roles where robust modelling, careful validation, reproducible pipelines, and real-world impact are important.
+
+<br>
+
+---
+
+<br>
 
 ## Research and technical interests
 
@@ -41,6 +45,12 @@ I am interested in industry and research roles across computer vision, applied A
 - Explainable and interpretable AI, including Grad-CAM and clinically meaningful morphology features
 - Robust model validation, cross-validation, calibration, and failure-mode analysis
 - Reproducible machine learning pipelines for biomedical and healthcare data
+
+<br>
+
+---
+
+<br>
 
 ## Selected technical strengths
 
