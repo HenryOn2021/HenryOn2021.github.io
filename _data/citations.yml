@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   2SIGfakAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -7,7 +7,7 @@ papers:
     year: '2025'
   2SIGfakAAAAJ:9yKSN-GCB0IC:
     citations: 3
-    title: Two-Stage nnU-Net for Automatic Multi-class Bi-atrial Segmentation from LGE-MRIs
+    title: Two-Stage nnU-net for automatic multi-class bi-atrial segmentation from LGE-MRIs
     year: '2024'
   2SIGfakAAAAJ:d1gkVwhDpl0C:
     citations: 0
