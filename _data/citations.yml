@@ -1,12 +1,8 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-12'
 papers:
-  2SIGfakAAAAJ:2osOgNQ5qMEC:
-    citations: 0
-    title: Multi-class Bi-atrial Segmentation
-    year: '2025'
   2SIGfakAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: Two-Stage nnU-net for automatic multi-class bi-atrial segmentation from LGE-MRIs
     year: '2024'
   2SIGfakAAAAJ:d1gkVwhDpl0C:
